@@ -1,16 +1,16 @@
 <h1 align="center">ℌ𝔢𝔶, ℑ'𝔪 ℭ𝔥𝔞𝔢!</h1>
-<h3 align="center">A passionate frontend developer/digital marketer from South Africa</h3>
+<h3 align="center">A passionate frontend developer/digital marketer.</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bionichae&label=Profile%20views&color=0e75b6&style=flat" alt="bionichae" /> </p>
 
-- 🌱 I’m currently learning **UX design, web dev and more.**
+- 🌱 I’m currently learning: **UX design, web dev and more.**
 
-- 💬 Ask me about **Digital Marketing and Social Media Marketing.**
+- 💬 Ask me about: **Digital Marketing and Social Media Marketing.**
 
-- 📫 How to reach me **chanteldhlamini12@gmail.com**
+- 📫 How to reach me: **chanteldhlamini12@gmail.com**
 
-- ⚡ Fun fact **I am a fashionista to the core.😍**
+- ⚡ Fun fact: **I am a fashionista to the core.😍**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
