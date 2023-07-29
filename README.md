@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Chae</h1>
+<h1 align="center"> __  __     ______     __  __        __     __    __        ______     __  __     ______     ______    
+/\ \_\ \   /\  ___\   /\ \_\ \      /\ \   /\ "-./  \      /\  ___\   /\ \_\ \   /\  __ \   /\  ___\   
+\ \  __ \  \ \  __\   \ \____ \     \ \ \  \ \ \-./\ \     \ \ \____  \ \  __ \  \ \  __ \  \ \  __\   
+ \ \_\ \_\  \ \_____\  \/\_____\     \ \_\  \ \_\ \ \_\     \ \_____\  \ \_\ \_\  \ \_\ \_\  \ \_____\ 
+  \/_/\/_/   \/_____/   \/_____/      \/_/   \/_/  \/_/      \/_____/   \/_/\/_/   \/_/\/_/   \/_____/ 
+                                                                                                       </h1>
 <h3 align="center">A passionate frontend developer/digital marketer from South Africa</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif"
 
