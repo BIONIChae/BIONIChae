@@ -1,7 +1,4 @@
-<h1 align="center"> _   _  ____  _  _     ____/ __  __     ___  _   _    __    ____ /\
-( )_( )( ___)( \/ )   (_  _)(  \/  )   / __)( )_( )  /__\  ( ___))(
- ) _ (  )__)  \  /()   _)(_  )    (   ( (__  ) _ (  /(__)\  )__) \/
-(_) (_)(____) (__)/   (____)(_/\/\_)   \___)(_) (_)(__)(__)(____)()</h1>
+<h1 align="center">ℌ𝔢𝔶, ℑ'𝔪 ℭ𝔥𝔞𝔢!</h1>
 <h3 align="center">A passionate frontend developer/digital marketer from South Africa</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif"
 
