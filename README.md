@@ -1,6 +1,6 @@
 <h1 align="center">ℌ𝔢𝔶, ℑ'𝔪 ℭ𝔥𝔞𝔢!</h1>
 <h3 align="center">A passionate frontend developer/digital marketer from South Africa</h3>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif"
+<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqaxHQuFI30i2JXcrmV1L9ms_FahN9PL5LomkwuM2rQggGK0OiQADmOWio0mYDs2SfdKU&usqp=CAU"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bionichae&label=Profile%20views&color=0e75b6&style=flat" alt="bionichae" /> </p>
 
