@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning: **UX design, web dev and more.**
 
-- 💬 Ask me about: **Digital Marketing and Social Media Marketing.**
+- 💬 Ask me about: **Anything really. I'm always open to enriching, interesting conversations.**
 
 - 📫 How to reach me: **chanteldhlamini12@gmail.com**
 
